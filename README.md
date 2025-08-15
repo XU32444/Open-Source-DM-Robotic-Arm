@@ -10,10 +10,11 @@ It offers **53 cm max reach**, **500 g min payload**, and full control via MATLA
 
 ## 📷 **Preview**
 
-<img width="1067" height="668" alt="image" src="https://github.com/user-attachments/assets/d6171dc3-892e-42c1-a29a-d9dea1c562b1" />
+<img width="1068" height="668" alt="image" src="https://github.com/user-attachments/assets/8ab26a7c-4af1-406a-b4f8-460515da93ce" />
 
 
 https://github.com/user-attachments/assets/50352871-9a13-4d8e-b3fd-fbdad3ffe666
+<img width="1920" height="1080" alt="Model_2025-Aug-15_05-48-42AM-000_CustomizedView31302310918_png" src="https://github.com/user-attachments/assets/b849083c-4f9a-4113-be0e-c19485265ca9" />
 
 
 ---
