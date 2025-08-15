@@ -9,10 +9,19 @@ It offers **53 cm max reach**, **500 g min payload**, and full control via MATLA
 ---
 
 ## 📷 **Preview**
-*(Insert images/videos of your arm here — assembly photo, motion demo, etc.)*  
-Example:  
-![Robotic Arm Demo](docs/images/robotic_arm_demo.gif)
 
+<img width="1067" height="668" alt="image" src="https://github.com/user-attachments/assets/d6171dc3-892e-42c1-a29a-d9dea1c562b1" />
+
+
+https://github.com/user-attachments/assets/50352871-9a13-4d8e-b3fd-fbdad3ffe666
+
+
+---
+## Model Access Link:
+
+https://a360.co/3HxrzQ5
+
+---
 ---
 
 ## ✨ **Features**
