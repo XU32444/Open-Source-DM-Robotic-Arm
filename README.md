@@ -6,6 +6,10 @@
 A self-built, open-source robotic arm powered by **DM4310** & **DM4340** BLDC motors with integrated **FOC modules**.  
 It offers **53 cm max reach**, **500 g min payload**, and full control via MATLAB with per-joint tuning of **Kp**, **Kd**, **V_des**, **P_des**, and **T** for precise and flexible motion control.  
 
+Link to all the documents: https://github.com/XU32444/RoboticArm
+
+
+
 ---
 
 ## 📷 **Preview**
